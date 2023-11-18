@@ -1,3 +1,4 @@
+"use client"
 import Board from "./componentes/Board"
 
 export default function Home() {
